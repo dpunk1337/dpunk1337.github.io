@@ -15,7 +15,6 @@ const Layout =  () => {
                 </span>
 
                 <Outlet />
-                <Home />
 
                 <span className='tags bottom-tags'>
                 &lt;/body&gt;
